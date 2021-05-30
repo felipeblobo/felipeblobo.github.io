@@ -60,7 +60,7 @@
     "institution_id": 5,
     "institution_name": "Amigos e bichos",
     "description": "Estamos precisando de alguém com experiência em redes sociais para gerar mais engajamento e apoio para nossa ONG.",
-    "hability": [],
+    "hability": ["web", "frontend", "react"],
     "cause": ["proteção animal"],
     "popularity": 80
   },
