@@ -73,7 +73,7 @@
     "institution_id": 6,
     "institution_name": "Dentistas Unidos",
     "description": "Estamos precisando de alguém com experiência em periodontia.",
-    "hability": [],
+    "hability": null,
     "cause": ["saúde"],
     "popularity": 40
   },
