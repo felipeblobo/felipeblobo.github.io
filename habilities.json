@@ -3,7 +3,7 @@
       "id":1,
       "name": "Educação",
       "img": "Educacao",
-      "img_src": "src/img/teacher.svg"
+      "img_src": "../../img/teacher.svg"
     },
     {
       "id":2,
