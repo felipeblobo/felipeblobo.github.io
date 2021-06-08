@@ -47,5 +47,29 @@
       "name": "Programação",
       "img": "programacao",
       "img_src": "images/dev.svg"
+    },
+   {
+      "id":9,
+      "name": "Cozinhar",
+      "img": "Cozinhar",
+      "img_src": "images/cooking.svg"
+    },
+   {
+      "id":10,
+      "name": "Barbearia",
+      "img": "Barbearia",
+      "img_src": "images/barber.svg"
+    },
+   {
+      "id":11,
+      "name": "Esportes",
+      "img": "esportes",
+      "img_src": "images/sports.svg"
+    },
+   {
+      "id":12,
+      "name": "Artes",
+      "img": "artes",
+      "img_src": "images/artist.svg"
     }
  ]
